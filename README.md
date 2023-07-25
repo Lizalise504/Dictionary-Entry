@@ -1,0 +1,2 @@
+# Dictionary-Entry
+ninja definition
